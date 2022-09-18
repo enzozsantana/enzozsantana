@@ -14,11 +14,12 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="Enzo-Avatar" height="200" src="https://raw.githubusercontent.com/enzozsantana/enzozsantana/main/assets/avatar.png">
+  <img align="right" alt="Enzo-Avatar" height="225" src="https://raw.githubusercontent.com/enzozsantana/enzozsantana/main/assets/avatar.png">
 </div>
 
 <div style="display: inline_block" align="center"><br><br>
   <a href = "mailto:enzozanattadesantana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzo-zanatta-de-sant-ana-5a8039207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://enzozsantana-portfolio.netlify.app"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
   <a href="https://web.whatsapp.com/send?phone=551388087823" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
